@@ -62,7 +62,12 @@ body::before {
     font-weight: 700;
     border: none;
     margin-top: 2rem;
+    
 }
+
+button:hover {
+    background-color: rgb(27, 149, 63);
+  }
 
 .container__texto {
     margin: 16px 0 16px 0;
